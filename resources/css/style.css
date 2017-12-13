@@ -1,0 +1,11 @@
+.container {
+  background-color: seashell;
+}
+
+.main-banner  {
+  /*height: 25em;*/
+  background-image: url(../images/moto.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
